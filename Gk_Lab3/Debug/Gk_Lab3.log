@@ -1,0 +1,3 @@
+﻿  robot.c
+E:\OH NO HE IS HOT\Grafika komputerowa\_lab3\Gk_Lab3\robot.c(498,13): warning C4013: 'exit' undefined; assuming extern returning int
+  Gk_Lab3.vcxproj -> E:\OH NO HE IS HOT\Grafika komputerowa\_lab3\Gk_Lab3\Debug\Gk_Lab3.exe

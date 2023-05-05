@@ -1,0 +1,16 @@
+E:\OH NO HE IS HOT\Grafika komputerowa\Gk_Lab1_2\bin\Debug\Graf_kom.exe
+E:\OH NO HE IS HOT\Grafika komputerowa\Gk_Lab1_2\bin\Debug\Graf_kom.pdb
+E:\OH NO HE IS HOT\Grafika komputerowa\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.AssemblyReference.cache
+E:\OH NO HE IS HOT\Grafika komputerowa\Gk_Lab1_2\obj\Debug\Graf_kom.f_graf_kom.resources
+E:\OH NO HE IS HOT\Grafika komputerowa\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.GenerateResource.cache
+E:\OH NO HE IS HOT\Grafika komputerowa\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.CoreCompileInputs.cache
+E:\OH NO HE IS HOT\Grafika komputerowa\Gk_Lab1_2\obj\Debug\Graf_kom.exe
+E:\OH NO HE IS HOT\Grafika komputerowa\Gk_Lab1_2\obj\Debug\Graf_kom.pdb
+E:\OH NO HE IS HOT\Grafika komputerowa\_lab2\Gk_Lab1_2\bin\Debug\Graf_kom.exe
+E:\OH NO HE IS HOT\Grafika komputerowa\_lab2\Gk_Lab1_2\bin\Debug\Graf_kom.pdb
+E:\OH NO HE IS HOT\Grafika komputerowa\_lab2\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.AssemblyReference.cache
+E:\OH NO HE IS HOT\Grafika komputerowa\_lab2\Gk_Lab1_2\obj\Debug\Graf_kom.f_graf_kom.resources
+E:\OH NO HE IS HOT\Grafika komputerowa\_lab2\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.GenerateResource.cache
+E:\OH NO HE IS HOT\Grafika komputerowa\_lab2\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.CoreCompileInputs.cache
+E:\OH NO HE IS HOT\Grafika komputerowa\_lab2\Gk_Lab1_2\obj\Debug\Graf_kom.exe
+E:\OH NO HE IS HOT\Grafika komputerowa\_lab2\Gk_Lab1_2\obj\Debug\Graf_kom.pdb
